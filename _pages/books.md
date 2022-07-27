@@ -6,4 +6,3 @@ collection: books
 entries_layout: grid
 classes: wide
 ---
-
