@@ -53,6 +53,13 @@ collections:
     permalink: /:collection/:path/
 
 
+# Reading Files
+include:
+  - _pages
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
