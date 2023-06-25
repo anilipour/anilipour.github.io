@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-show: true
+show: show
 ---
 
-# [SETI](/seti.md)
+# [SETI](/seti)
