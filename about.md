@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+show: True
 ---
 
 <p class="message">
