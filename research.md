@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-show: True
+show: true
 ---
 
 # [SETI](/seti.md)

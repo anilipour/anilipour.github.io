@@ -1,6 +1,6 @@
 ---
 layout: page
 title: SETI
-show: False
+show: false
 ---
 
