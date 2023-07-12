@@ -6,7 +6,7 @@ show: hide
 
 ### Signal Synchronization Strategies and Time Domain SETI
 ![SETI Ellipsoid](/images/seto_scheme.jpg "SETI Ellipsoid")
-*<p style="text-align: center;">Credit: Danielle Futselaar / Breakthrough Listen</p>*
+*Credit: Danielle Futselaar / Breakthrough Listen*
 
 As a summer REU student at Breakthrough Listen and the Berkeley SETI Research Center in 2022, I worked with Dr. Steve Croft (UCB) and [Prof. James Davenport](https://jradavenport.github.io/) (UW) on implementing signal synchronization strategies with Gaia Data Release 3. The idea that an extraterrestrial civilization may synchronize their transmission with a conspicuous astrophysical event, such as a supernova, forms the basis of the SETI Ellipsoid and the related signaling scheme proposed by [Seto (2021)](https://iopscience.iop.org/article/10.3847/1538-4357/ac0c7b). It has only recently become feasible to implement these frameworks with the precise astrometric capabilities of Gaia.
 

@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Radio Astronom
+title: Radio Astronomy
 show: hide
 ---
