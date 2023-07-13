@@ -4,11 +4,13 @@ title: SETI
 show: hide
 ---
 
+I began working on SETI as a summer REU student at Breakthough Listen and the Berkeley SETI Research Center in 2022. Below are my past and current projects.
+
 ### Signal Synchronization Strategies and Time Domain SETI
 ![SETI Ellipsoid](/images/seto_scheme.jpg "SETI Ellipsoid")
 *Credit: Danielle Futselaar / Breakthrough Listen*
 
-As a summer REU student at Breakthrough Listen and the Berkeley SETI Research Center in 2022, I worked with Dr. Steve Croft (UCB) and [Prof. James Davenport](https://jradavenport.github.io/) (UW) on implementing signal synchronization strategies with Gaia Data Release 3. The idea that an extraterrestrial civilization may synchronize their transmission with a conspicuous astrophysical event, such as a supernova, forms the basis of the SETI Ellipsoid and the related signaling scheme proposed by [Seto (2021)](https://iopscience.iop.org/article/10.3847/1538-4357/ac0c7b). It has only recently become feasible to implement these frameworks with the precise astrometric capabilities of Gaia.
+As a summer REU student, I worked with Steve Croft (UCB) and [James Davenport](https://jradavenport.github.io/) (UW) on implementing signal synchronization strategies with Gaia Data Release 3. The idea that an extraterrestrial civilization may synchronize their transmission with a conspicuous astrophysical event, such as a supernova, forms the basis of the SETI Ellipsoid and the related signaling scheme proposed by [Seto (2021)](https://iopscience.iop.org/article/10.3847/1538-4357/ac0c7b). It has only recently become feasible to implement these frameworks with the precise astrometric capabilities of Gaia.
 
 ![Seto Scheme](/images/setoAnimation.gif "Seto Scheme")
 Seto Scheme *Credit: Andy Nilipour*
@@ -22,12 +24,12 @@ The repository for this project is available [here](https://github.com/anilipour
 
 ### LSST Technosignature Search
 
-I am currently working with Dr. Croft and Prof. Davenport on developing a classifier for LSST lightcurves. We are using data from [ELAsTiCC](https://github.com/LSSTDESC/elasticc), which provides simulated alerts and contains one technosignature among the various types of transients. Our goal is to identify the technosignature, and, along the way, be able to classify everything else as well.
+I am currently working with Steve Croft and James Davenport on developing a classifier for LSST lightcurves. We are using data from [ELAsTiCC](https://github.com/LSSTDESC/elasticc), which provides simulated alerts and contains one technosignature among the various types of transients. Our goal is to identify the technosignature, and, along the way, be able to classify everything else as well.
 
 More to come!
 
 ### Spider Pulsars as Stellivores
 
-I am also working with Dr. Clement Vidal (UCB) on testing whether some spider pulsars, which are millisecond pulsars with very low mass companions, may be advanced extraterrestrial civilizations feeding on their companion star for energy. We are looking for potential close encounters with other stars, which could be a sign of goal-oriented behavior. Close stellar encounters have been studied as a potential technosignature (e.g. [Hansen (2022)](https://iopscience.iop.org/article/10.3847/1538-3881/ac3a8b)); we are testing that hypothesis for spider pulsars in particular, because if they do indeed host civilizations using their companion star for energy, the low companion mass will necessitate the capture of another star to feed on.
+I am also working with Clement Vidal (UCB) on testing whether some spider pulsars, which are millisecond pulsars with very low mass companions, may be advanced extraterrestrial civilizations feeding on their companion star for energy. We are looking for potential close encounters with other stars, which could be a sign of goal-oriented behavior. Close stellar encounters have been studied as a potential technosignature (e.g. [Hansen (2022)](https://iopscience.iop.org/article/10.3847/1538-3881/ac3a8b)); we are testing that hypothesis for spider pulsars in particular, because if they do indeed host civilizations using their companion star for energy, the low companion mass will necessitate the capture of another star to feed on.
 
 More to come as well!

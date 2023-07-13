@@ -4,6 +4,8 @@ title: Research
 show: show
 ---
 
-# [SETI](/seti)
+More information about my past, current, and future research projects can be found here.
+
 # [Radio Astronomy](/radio_astronomy)
 # [Cosmology](/cosmology)
+# [SETI](/seti)
