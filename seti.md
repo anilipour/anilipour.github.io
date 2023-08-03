@@ -19,7 +19,7 @@ After constraining possible SETI candidates with these signal synchronization fr
 
 Although no particular interesting candidates were found, we are continuing the search and the utilization of these tools. We used the SETI Ellipsoid with SN 2023ixf, a supernova detected in the galaxy M101 in May 2023, to select a sample of technosignature candidates, which we then observed with the Allen Telescope Array and the Green Bank Telescope; this is described in more detail in [Davenport et al. (2023)](https://iopscience.iop.org/article/10.3847/2515-5172/acdc24).
 
-The repository for this project is available [here](https://github.com/anilipour/Gaia-DR3-Time-Domain-SETI). More information can be found in the upcoming Nilipour et al. (in press). There has also been some press coverage of this project; see [here](https://www.economist.com/science-and-technology/2023/01/18/ideas-for-finding-et-are-getting-more-inventive).
+The GitHub repository for this project is available [here](https://github.com/anilipour/Gaia-DR3-Time-Domain-SETI). More information can be found in the paper, [Nilipour et al. (2023)](https://iopscience.iop.org/article/10.3847/1538-3881/acde79). The arXiv version is available [here](https://arxiv.org/abs/2308.00066). There has also been some press coverage of this project, including in [The Economist](https://www.economist.com/science-and-technology/2023/01/18/ideas-for-finding-et-are-getting-more-inventive) and [YaleNews](https://news.yale.edu/2023/07/31/searching-extraterrestrial-life-keeping-eye-exploding-stars).
 
 
 ### LSST Technosignature Search
