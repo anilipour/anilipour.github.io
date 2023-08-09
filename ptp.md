@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications, Talks, and Posters
+title: Publications, Presentations, Posters, and Press
 show: hide
 ---
 
@@ -25,4 +25,15 @@ show: hide
 
 [![Lyman-a](/images/aas240lymana.png "Lyman-a")](https://aas240-aas.ipostersessions.com/?s=7A-34-77-02-25-72-22-5C-15-06-27-65-0D-E9-5E-D2)
 *[AAS 240 - One-dimensional Lyman-$\alpha$ forest power spectrum estimate from eBOSS](https://aas240-aas.ipostersessions.com/?s=7A-34-77-02-25-72-22-5C-15-06-27-65-0D-E9-5E-D2)*
+
+## Press Coverage
+
+[![SETI Ellipsoid](/images/seto_scheme.jpg "SETI Ellipsoid")](https://news.yale.edu/2023/07/31/searching-extraterrestrial-life-keeping-eye-exploding-stars)
+*[YaleNews: Searching for extraterrestrial life — by keeping an eye on exploding stars](https://news.yale.edu/2023/07/31/searching-extraterrestrial-life-keeping-eye-exploding-stars)*  
+*Image Credit: Danielle Futselaar / Breakthrough Listen*
+
+[![MeerKAT](/images/economist.png "MeerKAT")](https://www.economist.com/science-and-technology/2023/01/18/ideas-for-finding-et-are-getting-more-inventive)
+*[The Economist: Ideas for finding ET are getting more inventive](https://www.economist.com/science-and-technology/2023/01/18/ideas-for-finding-et-are-getting-more-inventive)*  
+*Image Credit: Enrico Sacchetti*
+
 

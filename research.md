@@ -11,4 +11,4 @@ More information about my past, current, and future research projects can be fou
 ## [SETI](/seti)
 
 
-You can also view my [publications, talks, and posters.](/ptp)
+You can also view my [publications, talks, posters, and press coverage.](/ptp)
