@@ -4,16 +4,16 @@ title: Radio Astronomy
 show: hide
 ---
 
-My interest in radio astronomy stems from coursework, and I have had exciting opportunities to explore that interest in a research setting. Below are my current and future projects in the field.
-
-### Feeding the Center of the Milky Way
-
-I am currently a summer REU student at the National Radio Astronomy Observatory in Socorro, NM, where I am working with Juergen Ott (NRAO), Brian Svoboda (NRAO), and David Meier (NMT) on determining the kinematics of molecular clouds potentially feeding the Central Molecular Zone using observations with ALMA. 
-
-More to come!
+My interest in radio astronomy stems from coursework, and I have had exciting opportunities to explore that interest in a research setting. Below are my current projects in the field.
 
 ### Movies with the Event Horizon Telescope
 
-In the fall, I will begin an internship at the National Astronomical Observatory of Japan, where I will work with Mareki Honma (NAOJ), Shiro Ikeda (ISM), and Kazunori Akiyama (MIT) on reconstructing movies from EHT data.
+I am currently interning at the [National Astronomical Observatory of Japan](https://www.nao.ac.jp/en/), where I am working with [Kazunori Akiyama](https://kazuakiyama.github.io/) (MIT), [Shiro Ikeda](https://www.ikeda.cc/en/) (ISM), and Mareki Honma (NAOJ), on EHT movie reconstruction with regularized maximum likelihood techniques.
+
+More to come!
+
+### Feeding the Center of the Milky Way
+
+I was a summer 2023 REU student at the National Radio Astronomy Observatory in Socorro, NM, where I worked with [Juergen Ott](https://www.aoc.nrao.edu/~jott/Welcome.html) (NRAO), [Brian Svoboda](https://autocorr.github.io/index.html) (NRAO), and [David Meier](http://kestrel.nmt.edu/~dmeier/) (NMT) on determining the kinematics of molecular clouds potentially feeding the Central Molecular Zone using observations with ALMA. We are currently drafting a paper describing our results.
 
 More to come!
