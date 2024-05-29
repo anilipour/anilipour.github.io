@@ -14,10 +14,12 @@ show: hide
 
 [![Feeding the CMZ](/images/nraoTalk.png "Feeding the CMZ")](/files/NAOJSeminar.pdf)
 *[NRAO Summer Symposium - Feeding the Central Molecular Zone](/files/NRAOFinalTalk.pdf)*
+
 *[NAOJ VLBI Seminar - Feeding the CMZ: Gas Accretion Flows in the Galactic Bar](/files/NAOJSeminar.pdf)*
 
 [![SETI Ellipsoid](/images/setiTalk.png "SETI Ellipsoid")](/files/PSETISeminar.pdf)
 *[PSETI Seminar - Signal Synchronization Strategies and Time Domain SETI](/files/PSETISeminar.pdf)*
+
 *[AAS 241 and Berkeley SETI Research Center Summer Symposium - Signal Synchronization Strategies and Time Domain SETI with Gaia DR3](/files/AndyNilipourAAS241Presentation.pdf)*
 
 
