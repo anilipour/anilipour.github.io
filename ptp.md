@@ -25,6 +25,9 @@ show: hide
 
 ## Posters
 
+[![EHT OT Regularizer](/images/movieRecon.png "EHT OT Regularizer")](/files/BHEXPoster.pdf)
+*[Black Hole Explorer (BHEX) Japan Workshop - Optimal Transport Regularized Black Hole Movie Reconstruction](/files/BHEXPoster.pdf)*
+
 [![Linear Point](/images/aas242lp.png "Linear Point")](https://aas242-aas.ipostersessions.com/Default.aspx?s=86-D2-09-E0-43-0F-A3-67-17-B4-3D-E5-79-17-B4-C2)
 *[AAS 242 - Linear Point Standard Ruler Estimation with Neural Networks](https://aas242-aas.ipostersessions.com/Default.aspx?s=86-D2-09-E0-43-0F-A3-67-17-B4-3D-E5-79-17-B4-C2)*
 
