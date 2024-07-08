@@ -6,7 +6,7 @@ show: show
 
 More information about my past, current, and future research projects can be found here.
 
-## [Radio Astronomy](/radio_astronomy)
+## [Radio Astronomy](/radioastronomy)
 ## [Cosmology](/cosmology)
 ## [SETI](/seti)
 
