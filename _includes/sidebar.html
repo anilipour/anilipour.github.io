@@ -28,7 +28,14 @@
             {% endif %}
         {% endif %}
       {% endfor %}
-      <a class="sidebar-nav-item" href="/files/anilipourCV.pdf" target="_blank">CV</a> <a class="sidebar-nav-item" href="{{ site.github.repo }}" target="_blank"><i class="fa-brands fa-github"></i>GitHub Profile</a>
+      <!-- <a class="sidebar-nav-item" href="/files/anilipourCV.pdf" target="_blank">CV</a> -->
+      <!-- above is old use case for custom sidebar links -->
+
+      <span class="sidebar-nav-item"> 
+        <a href="{{ site.github.repo }}"><i class="fab fa-github"></i></a> &nbsp;&nbsp;
+        <a href="{{ site.ads_link }}"><i class="fa fa-bookmark"></i></a> &nbsp;&nbsp;
+        <a href="/files/anilipourCV.pdf"><i class="fa fa-file-text"></i></a>
+      </span> 
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav>
 

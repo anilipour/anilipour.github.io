@@ -23,3 +23,6 @@ version:          1.1
 
 github:
   repo:           https://github.com/anilipour/
+
+ads_link:         https://ui.adsabs.harvard.edu/search/q=%20author%3A%22nilipour%22%20year%3A2020-&sort=date%20desc%2C%20bibcode%20desc&p_=0
+
