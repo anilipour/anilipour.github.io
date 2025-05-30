@@ -6,6 +6,11 @@ show: hide
 
 ## Publications
 
+
+[![ALMA Clouds](/images/hopsOverlayHQ.png "ALMA Clouds")](https://ui.adsabs.harvard.edu/abs/2024ApJ...977...37N/abstract)
+*[Nilipour, A., Ott, J., Meier, D., Svoboda, B., et al. “Turbulent Pressure Heats Gas and Suppresses Star Formation in Galactic Bar Molecular Clouds.” ApJ 977, 37 (2024)](https://ui.adsabs.harvard.edu/abs/2024ApJ...977...37N/abstract)*
+
+
 [![SETI Ellipsoid](/images/setiEllipsoid.png "SETI Ellipsoid")](https://ui.adsabs.harvard.edu/abs/2023AJ....166...79N/abstract)
 *[Nilipour, A., Davenport J., Croft, S., & Siemion, A. "Signal Synchronization Strategies and Time Domain SETI with Gaia DR3." AJ 166, 79 (2023)](https://ui.adsabs.harvard.edu/abs/2023AJ....166...79N/abstract)*
 
@@ -24,6 +29,9 @@ show: hide
 
 
 ## Posters
+
+[![Turbulence](/images/aas245turbulence.png "Turbulence")](https://aas245-aas.ipostersessions.com/Default.aspx?s=29-56-ED-38-B6-DE-02-F6-40-76-40-7F-39-3B-2B-09)
+*[AAS 245 - Turbulence in Galactic Bar Molecular Clouds](https://aas245-aas.ipostersessions.com/Default.aspx?s=29-56-ED-38-B6-DE-02-F6-40-76-40-7F-39-3B-2B-09)*
 
 [![EHT OT Regularizer](/images/movieRecon.png "EHT OT Regularizer")](/files/BHEXPoster.pdf)
 *[Black Hole Explorer (BHEX) Japan Workshop - Optimal Transport Regularized Black Hole Movie Reconstruction](/files/BHEXPoster.pdf)*

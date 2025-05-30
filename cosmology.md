@@ -4,11 +4,15 @@ title: Cosmology
 show: hide
 ---
 
-My primary research projects at Yale since 2020 have been in cosmology, advised by Nikhil Padmanabhan. 
+My primary research projects at Yale since 2020 have been in cosmology, advised by Nikhil Padmanabhan.
+
+### Improved Cosmic Displacement Field Estimation
+
+I am currently working with Farnik Nikakhtar and Nikhil Padmanabhan on improving estimations of the cosmic displacement field, which encodes the displacement of particles from the initial conditions, using convolutional neural networks. More information can be found in my [senior thesis report](/files/SeniorThesis.pdf).
 
 ### Linear Point Scale Estimation with Neural Networks
 
-I am currently working with Farnik Nikakhtar and Nikhil Padmanabhan on estimating the linear point, the halfway point between the Baryon Acoustic Oscillations (BAO) dip and peak features in the two-point correlation function, using neural networks. More information can be found in my [iPoster](https://aas242-aas.ipostersessions.com/Default.aspx?s=86-D2-09-E0-43-0F-A3-67-17-B4-3D-E5-79-17-B4-C2) presented at AAS 242 in Albuquerque.
+I worked with Farnik Nikakhtar and Nikhil Padmanabhan on estimating the linear point, the halfway point between the Baryon Acoustic Oscillations (BAO) dip and peak features in the two-point correlation function, using neural networks. More information can be found in my [iPoster](https://aas242-aas.ipostersessions.com/Default.aspx?s=86-D2-09-E0-43-0F-A3-67-17-B4-3D-E5-79-17-B4-C2) presented at AAS 242 in Albuquerque.
 
 ### Lyman-$\alpha$ Forest 1D Power Spectrum Estimation
 

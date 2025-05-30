@@ -4,13 +4,11 @@ title: SETI
 show: hide
 ---
 
-I began working on SETI as a summer REU student at [Breakthough Listen](https://breakthroughinitiatives.org/initiative/1) and the [Berkeley SETI Research Center](https://seti.berkeley.edu/listen/) in 2022. Below are my past and current projects.
-
 ### Signal Synchronization Strategies and Time Domain SETI
 ![SETI Ellipsoid](/images/seto_scheme.jpg "SETI Ellipsoid")
 *Credit: Danielle Futselaar / Breakthrough Listen*
 
-As a summer REU student, I worked with [James Davenport](https://jradavenport.github.io/) (UW) and [Steve Croft](https://w.astro.berkeley.edu/~scroft/) (UCB) on implementing signal synchronization strategies with Gaia Data Release 3. The idea that an extraterrestrial civilization may synchronize their transmission with a conspicuous astrophysical event, such as a supernova, forms the basis of the SETI Ellipsoid and the related signaling scheme proposed by [Seto (2021)](https://iopscience.iop.org/article/10.3847/1538-4357/ac0c7b). It has only recently become feasible to implement these frameworks with the precise astrometric capabilities of Gaia.
+As a summer REU student at [Breakthough Listen](https://breakthroughinitiatives.org/initiative/1) and the [Berkeley SETI Research Center](https://seti.berkeley.edu/listen/) in 2022, I worked with [James Davenport](https://jradavenport.github.io/) (UW) and [Steve Croft](https://w.astro.berkeley.edu/~scroft/) (UCB) on implementing signal synchronization strategies with Gaia Data Release 3. The idea that an extraterrestrial civilization may synchronize their transmission with a conspicuous astrophysical event, such as a supernova, forms the basis of the SETI Ellipsoid and the related signaling scheme proposed by [Seto (2021)](https://iopscience.iop.org/article/10.3847/1538-4357/ac0c7b). It has only recently become feasible to implement these frameworks with the precise astrometric capabilities of Gaia.
 
 ![Seto Scheme](/images/setoAnimation.gif "Seto Scheme")
 Seto Scheme *Credit: Andy Nilipour*
