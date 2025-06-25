@@ -8,7 +8,7 @@ My primary research projects at Yale since 2020 have been in cosmology, advised 
 
 ### Improved Cosmic Displacement Field Estimation
 
-I am currently working with Farnik Nikakhtar and Nikhil Padmanabhan on improving estimations of the cosmic displacement field, which encodes the displacement of particles from the initial conditions, using convolutional neural networks. More information can be found in my [senior thesis report](/files/SeniorThesis.pdf).
+I am currently working with Farnik Nikakhtar and Nikhil Padmanabhan on improving estimations of the cosmic displacement field, which encodes the displacement of particles from the initial conditions, using convolutional neural networks. More information can be found in my [senior thesis report](/files/SeniorThesis.pdf) or my [iPoster](https://aas246-aas.ipostersessions.com/Default.aspx?s=6B-67-87-E9-7C-2E-6E-5B-01-99-07-BF-37-02-83-B5) presented at AAS 246 in Anchorage.
 
 ### Linear Point Scale Estimation with Neural Networks
 

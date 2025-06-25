@@ -30,6 +30,10 @@ show: hide
 
 ## Posters
 
+[![Displacement Fields](/images/aas246displacement.png "Turbulence")](https://aas246-aas.ipostersessions.com/Default.aspx?s=6B-67-87-E9-7C-2E-6E-5B-01-99-07-BF-37-02-83-B5)
+*[AAS 246 - Cosmic Displacement Field Analysis with Convolutional Neural Networks](https://aas246-aas.ipostersessions.com/Default.aspx?s=6B-67-87-E9-7C-2E-6E-5B-01-99-07-BF-37-02-83-B5)*
+
+
 [![Turbulence](/images/aas245turbulence.png "Turbulence")](https://aas245-aas.ipostersessions.com/Default.aspx?s=29-56-ED-38-B6-DE-02-F6-40-76-40-7F-39-3B-2B-09)
 *[AAS 245 - Turbulence in Galactic Bar Molecular Clouds](https://aas245-aas.ipostersessions.com/Default.aspx?s=29-56-ED-38-B6-DE-02-F6-40-76-40-7F-39-3B-2B-09)*
 
