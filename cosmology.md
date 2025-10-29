@@ -4,11 +4,11 @@ title: Cosmology
 show: hide
 ---
 
-My primary research projects at Yale since 2020 have been in cosmology, advised by Nikhil Padmanabhan.
+My primary research projects at Yale were in cosmology, advised by Nikhil Padmanabhan.
 
 ### Improved Cosmic Displacement Field Estimation
 
-I am currently working with Farnik Nikakhtar and Nikhil Padmanabhan on improving estimations of the cosmic displacement field, which encodes the displacement of particles from the initial conditions, using convolutional neural networks. More information can be found in my [senior thesis report](/files/SeniorThesis.pdf) or my [iPoster](https://aas246-aas.ipostersessions.com/Default.aspx?s=6B-67-87-E9-7C-2E-6E-5B-01-99-07-BF-37-02-83-B5) presented at AAS 246 in Anchorage.
+I worked with Farnik Nikakhtar and Nikhil Padmanabhan on improving estimations of the cosmic displacement field, which encodes the displacement of particles from the initial conditions, using convolutional neural networks. More information can be found in my [senior thesis report](/files/SeniorThesis.pdf) or my [iPoster](https://aas246-aas.ipostersessions.com/Default.aspx?s=6B-67-87-E9-7C-2E-6E-5B-01-99-07-BF-37-02-83-B5) presented at AAS 246 in Anchorage, for which I received the [Chambliss Astronomy Achievement Student Award](https://aas.org/posts/news/2025/06/congratulations-aas-246-chambliss-student-award-winners).
 
 ### Linear Point Scale Estimation with Neural Networks
 
@@ -16,4 +16,4 @@ I worked with Farnik Nikakhtar and Nikhil Padmanabhan on estimating the linear p
 
 ### Lyman-$\alpha$ Forest 1D Power Spectrum Estimation
 
-I previously worked with Naim Goksel-Karacayli and Nikhil Padmanabhan on estimating the 1D Ly-$\alpha$ forest power spectrum using the quadratic maximum likelihood estimator with data from the BOSS and eBOSS missions of SDSS. More information can be found in my [iPoster](https://aas240-aas.ipostersessions.com/?s=7A-34-77-02-25-72-22-5C-15-06-27-65-0D-E9-5E-D2) presented at AAS 240 in Pasadena.
+I worked with Naim Goksel-Karacayli and Nikhil Padmanabhan on estimating the 1D Ly-$\alpha$ forest power spectrum using the quadratic maximum likelihood estimator with data from the BOSS and eBOSS missions of SDSS. More information can be found in my [iPoster](https://aas240-aas.ipostersessions.com/?s=7A-34-77-02-25-72-22-5C-15-06-27-65-0D-E9-5E-D2) presented at AAS 240 in Pasadena.

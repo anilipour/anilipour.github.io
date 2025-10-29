@@ -10,7 +10,7 @@ My interest in radio astronomy stems from coursework, and I have had exciting op
 
 I was at MIT Haystack Observatory in the summer of 2024, continuing work I started at the [National Astronomical Observatory of Japan](https://www.nao.ac.jp/en/) with [Kazunori Akiyama](https://sites.mit.edu/kazuakiyama) (MIT), [Shiro Ikeda](https://www.ikeda.cc/en/) (ISM), [Kotaro Moriyama](https://itp.uni-frankfurt.de/~moriyama/main/index.html) (IAA), and Mareki Honma (NAOJ) on developing a new Julia-based software suite of regularized maximum likelihood (RML) techniques for EHT image reconstruction, as well as exploring RML EHT movie reconstruction with optimal transport distances as a regularizer.
 
-A report on our findings for the optimal transport dynamic regularizer can be found [here](/files/otReportJ.pdf) (for now only available in Japanese). My poster, presented at the Black Hole Explorer Japan Workshop, is available [here](/files/BHEXPoster.pdf). Our Julia RML package can be found [here](https://github.com/EHTJulia/VLBISkyRegularizers.jl/tree/main).
+A report on our findings for the optimal transport dynamic regularizer can be found [here](/files/otReportJ.pdf) (for now only available in Japanese). My poster, presented at the Black Hole Explorer Japan Workshop, is available [here](/files/BHEXPoster.pdf). Our Julia RML package can be found [here](https://github.com/EHTJulia/VLBISkyRegularizers.jl/tree/main) and my talk at JuliaCon 2025 can be found [here](/files/JuliaCon.pdf).
 
 ### Feeding the Center of the Milky Way
 

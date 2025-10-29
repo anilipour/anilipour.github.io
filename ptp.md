@@ -17,6 +17,9 @@ show: hide
 
 ## Talks
 
+[![RML Methods in Julia](/images/juliaconTalk.png "RML Methods in Julia")](/files/JuliaCon.pdf)
+*[JuliaCon 2025 - Regularized Maximum Likelihood Methods for Black Hole Imaging](/files/JuliaCon.pdf)*
+
 [![Feeding the CMZ](/images/nraoTalk.png "Feeding the CMZ")](/files/NAOJSeminar.pdf)
 *[NRAO Summer Symposium - Feeding the Central Molecular Zone](/files/NRAOFinalTalk.pdf)*
 
